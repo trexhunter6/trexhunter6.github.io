@@ -1,0 +1,25 @@
+table, th, td {
+  border: 1px solid black;
+}
+#Personal {
+  Height: 50px;
+  Width: 2000px;
+    background-color:orange
+}
+body {
+  background-color: #82b74b
+}
+.Uncharted {
+  background-color: #618685
+    
+}
+img {
+  width: 300px;
+}
+#Witcher {
+  background-color: #e0e2e4
+}
+
+.NewVegas {
+  background-color: #F4A460
+}
